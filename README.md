@@ -19,7 +19,7 @@ Founder of [TALKwithAI](https://talkwithai-tanisha.vercel.app) — a whimsical c
 
 ## 🧩 Projects I’m Proud Of
 - **TALKwithAI** – A unique AI companion web app  
-  `Built with HTML, JS, Chatbase, hosted on Vercel`
+  `Built with HTML, JS, OpenAI, Chatbase, hosted on Vercel`
 
 - **PortCorner** – A creative grid board to showcase my works (in progress)
 
@@ -27,7 +27,7 @@ Founder of [TALKwithAI](https://talkwithai-tanisha.vercel.app) — a whimsical c
 
 ## 🔧 Tech Stack & Tools
 `JavaScript` `HTML5` `CSS3` `React` `Next.js` `Vercel`  
-`Git & GitHub` `Figma` `Notion` `Canva` `Chatbase` `Duolingo`  
+`OpenAI` `Git & GitHub` `Figma` `Notion` `Canva` `Chatbase` `Duolingo`  
 
 ---
 
