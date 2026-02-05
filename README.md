@@ -1,6 +1,6 @@
 # Hi, I'm Tanisha Hasan! 👋
 
-🎀 AI Product Developer | 🌐 App/Web Developer | 🎢 Creative Technologist
+🎀 AI Product Developer | 🌐 App/Web Developer | 🎢 Researcher & Technologist
 
 A multidisciplinary developer with a mind for code and a heart for AI.
 
